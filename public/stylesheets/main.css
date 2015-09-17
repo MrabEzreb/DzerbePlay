@@ -1,0 +1,17 @@
+#homeBody {
+	background-color: aqua;
+	margin: 0px;
+	margin-top: 8px;
+}
+.homeDiv {
+	width: 100%;
+	height: calc((100% - 7em) - 8px);
+	position: absolute;
+	background-image: url(/assets/images/allkinz.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.center {
+    text-align: center;
+}
